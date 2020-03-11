@@ -1,5 +1,5 @@
 def fizzbuzz (number)
- if  number is % 3
+ if  fizzbuzz number is % 3
    print Fizz
  end
 end
