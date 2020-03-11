@@ -1,5 +1,5 @@
 def fizzbuzz (int)
- if  int is divided by 3
+ if  int % 3
    print Fizz
  end
 end
