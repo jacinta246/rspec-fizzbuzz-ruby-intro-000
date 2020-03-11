@@ -1,5 +1,5 @@
-def fizzbuzz (int)
- if  int % 3
+def fizzbuzz (number)
+ if  number is % 3
    print Fizz
  end
 end
