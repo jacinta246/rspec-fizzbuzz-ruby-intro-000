@@ -1,3 +1,3 @@
 def fizzbuzz
- if fizzbuzz is divided by 3 = Fizz
+ if fizzbuzz % 3 = Fizz
 end
