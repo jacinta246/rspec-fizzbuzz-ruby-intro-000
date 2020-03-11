@@ -1,5 +1,5 @@
 def fizzbuzz (number)
-when  number % 3
+ when number % 3
    puts Fizz
  end
 end
