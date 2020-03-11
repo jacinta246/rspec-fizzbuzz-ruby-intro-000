@@ -1,5 +1,5 @@
 def fizzbuzz (number)
  if number % 3
-   puts Fizz
+   returns "Fizz"
  end
 end
