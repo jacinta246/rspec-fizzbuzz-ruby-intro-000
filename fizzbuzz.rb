@@ -4,6 +4,6 @@ def fizzbuzz (number)
  if number % 5
    return "Buzz"
  if number is not % 3 or 5
-   return "nil"lear
+   return "nil"
  end
 end
